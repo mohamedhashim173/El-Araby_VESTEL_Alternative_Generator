@@ -1,4 +1,4 @@
-# El-Araby_VESTEL_Alternative_Generator
+# El-Araby VESTEL Alternative Generator
 
 ## About The Project
 The El-Araby_VESTEL_Alternative_Generator is a software application designed to address the challenge of identifying alternative spare parts for a specific component. By utilizing advanced file-handling techniques, this program efficiently retrieves data from a source file and generates an output file containing all available alternatives of every specific component.
